@@ -1,4 +1,4 @@
-# 🛒 Krantika Buy - E-commerce Landing Page
+ # 🛒 Krantika Buy - E-commerce Landing Page
 Krantika Buy is a modern and responsive e-commerce landing page built to provide a seamless shopping experience.
 
 ### 🚀 Features:
