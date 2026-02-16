@@ -1,4 +1,6 @@
- # 🛒 Krantika Buy - E-commerce Landing Page
+ ## 🚀 Live Demo:
+https://stunning-granita-16f9e6.netlify.app/
+# 🛒 Krantika Buy - E-commerce Landing Page
 Krantika Buy is a modern and responsive e-commerce landing page built to provide a seamless shopping experience.
 
 ### 🚀 Features:
@@ -12,3 +14,4 @@ Krantika Buy is a modern and responsive e-commerce landing page built to provide
 - **JavaScript** for basic interactivity.
 
 *Project status: In progress - Daily updates for Outreachy Preparation.*
+
