@@ -21,3 +21,8 @@ Krantika Buy is a modern and responsive e-commerce landing page built to provide
 3. Feel free to explore the code and share your feedback
 
 
+### 🎯 Goal:
+Created this project to practice web layout design and CSS responsiveness as part of my Outreachy 2026 preparation journey.
+
+
+
