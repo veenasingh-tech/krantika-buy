@@ -13,7 +13,7 @@ Krantika Buy is a modern and responsive e-commerce landing page built to provide
 - **CSS** for styling and animations.
 - **JavaScript** for basic interactivity.
 
-*Project status: In progress - Daily updates for Outreachy Preparation.*
+*Project status: In progress - Daily updates*
 
 🛠️ How to Run
 1. Clone this repository.
